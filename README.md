@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-AI projects and assignments.
+All AI applications, assignments and projects.
