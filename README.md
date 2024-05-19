@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-All AI applications, assignments, and projects.
+All AI applications, assignments, and projects. Sequence-to-sequence model engineering.
