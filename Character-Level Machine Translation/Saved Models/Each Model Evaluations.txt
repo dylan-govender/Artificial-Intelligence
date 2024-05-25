@@ -1,0 +1,45 @@
+BiLSTM LSTM
+Training Accuracy: 0.9725
+Average BLEU score on 100 samples: 0.5513740981240981
+Average BLEU score on 1000 samples: 0.5836922023603642
+
+Input sentence: Go.
+Decoded sentence: Partez.
+
+Input sentence: Hi.
+Decoded sentence: Salut !
+
+Input sentence: Run!
+Decoded sentence: Filez !
+
+_________________________________________________________
+
+BiGRU GRU
+Training Accuracy: 0.9840
+Average BLEU score on 100 samples: 0.5422193362193363
+Average BLEU score on 1000 samples: 0.5871321965722542
+
+Input sentence: Go.
+Decoded sentence: Sartez !
+
+Input sentence: Hi.
+Decoded sentence: C'est partit !
+
+Input sentence: Run!
+Decoded sentence: File !
+
+_________________________________________________________
+
+2GRU GRU
+Training Accuracy: 0.9725
+Average BLEU score on 100 samples: 0.5255511351393705
+Average BLEU score on 1000 samples: 0.5065846916517074
+
+Input sentence: Go.
+Decoded sentence: Sartez !
+
+Input sentence: Hi.
+Decoded sentence: C'est partit !
+
+Input sentence: Run!
+Decoded sentence: File !
